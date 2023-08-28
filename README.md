@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @JeanWendt
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+JeanWendt/JeanWendt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+●	Álcool: até 30 litros, desconto de 3% por litro; acima de 30 e até 40 litros 5% de desconto; acima de 40 litros, desconto de 7% por litro.
+●	Gasolina: até 20 litros, desconto de 4% por litro; acima de 20 litros e até 30, desconto de 6% por litro; acima de 30 litros desconto de 8% por litro.
+Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A – álcool, G - gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo que o preço da gasolina é de R$ 4.39 o litro e do álcool R$ 3.20
